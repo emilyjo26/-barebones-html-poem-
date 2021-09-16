@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
     <head>
     <meta charset="utf-8">
     <title>“Bright star, would I were stedfast as thou art”</title>
@@ -24,6 +23,6 @@ And so live ever—or else swoon to death.</p>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/John_Keats_by_William_Hilton.jpg" alt="John Keats">
     </body>
-</html>
+
 
 
