@@ -1,7 +1,19 @@
 @charset "UTF-8";
 /* CSS Document */
-body {
-	background-color: saddlebrown
+@media screen and (min-width: 300px) {
+	body {
+		background-color: black
+}
+	}
+@media screen and (min-width: 400px) {
+	body {
+		background-color: saddlebrown
+}
+	}
+@media screen and (min-width: 600px) {
+	body {
+		background-color: sandybrown
+}
 }
 p{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 color: white; 
@@ -28,15 +40,4 @@ display: block;
 width: 30%;
 margin-left: auto;
 margin-right: auto;}
-@media screen and (min-width: 300px) {}
-	body {
-		background-color: black
-}
-@media screen and (min-width: 400px) {}
-	body {
-		background-color: saddlebrown
-}
-@media screen and (min-width: 600px) {}
-	body {
-		background-color: sandybrown
-}
+
