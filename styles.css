@@ -2,7 +2,8 @@
 /* CSS Document */
 @media screen and (min-width: 300px) {
 	body {
-		background-color: black
+		background-color: black;
+		font-size: 14pt; 
 }
 	}
 @media screen and (min-width: 400px) {
@@ -12,7 +13,8 @@
 	}
 @media screen and (min-width: 600px) {
 	body {
-		background-color: sandybrown
+		background-color: sandybrown;
+		color: black;
 }
 }
 p{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
