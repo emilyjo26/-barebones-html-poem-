@@ -2,33 +2,56 @@
 /* CSS Document */
 @media screen and (min-width: 300px) {
 	body {
-		background-color: black;
-		font-size: 14pt; 
+		background-color: chocolate;
 }
 	}
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 300px) {
+	p {
+		padding-left: 20pt;
+		padding-right: 20pt
+}
+	}
+@media screen and (min-width: 300px) {
+	h1 {
+		padding-left: 10pt;
+		padding-right: 10pt;
+}
+	}
+@media screen and (min-width: 450px) {
 	body {
-		background-color: saddlebrown
+		background-color: saddlebrown;
 }
 	}
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 450px) {
+	p {
+		padding-left: 20pt;
+		padding-right: 20pt
+}
+	}
+@media screen and (min-width: 450px) {
+	h1 {
+		padding-left: 10pt;
+		padding-right: 10pt;
+}
+	}
+
+@media screen and (min-width: 800px) {
 	body {
 		background-color: sandybrown;
-		color: black;
 }
 }
+
 p{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 color: white; 
 font-size: 16pt;
 	text-align: center;
-	padding-top: 05px;
+	padding-top: 5px;
  }
 h1{
-color: white;
+color: white; 
 text-align: center;
-background: #2E220E;
 	margin: 16pt;
-font-size: 24pt;
+font-size: 28pt;
 	padding-top: 20px;	
 	padding-bottom: 10px;
 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
@@ -41,5 +64,6 @@ img{width: 300px;
 display: block;
 width: 30%;
 margin-left: auto;
-margin-right: auto;}
+margin-right: auto;
+}
 
