@@ -1,35 +1,27 @@
 @charset "UTF-8";
 /* CSS Document */
 @media screen and (min-width: 300px) {
-	body {
+  body {
 		background-color: chocolate;
 }
-	}
-@media screen and (min-width: 300px) {
 	p {
 		padding-left: 20pt;
 		padding-right: 20pt
 }
-	}
-@media screen and (min-width: 300px) {
-	h1 {
+  	h1 {
 		padding-left: 10pt;
 		padding-right: 10pt;
 }
 	}
 @media screen and (min-width: 450px) {
-	body {
+  	body {
 		background-color: saddlebrown;
 }
-	}
-@media screen and (min-width: 450px) {
 	p {
 		padding-left: 20pt;
 		padding-right: 20pt
 }
-	}
-@media screen and (min-width: 450px) {
-	h1 {
+  h1 {
 		padding-left: 10pt;
 		padding-right: 10pt;
 }
@@ -66,4 +58,7 @@ width: 30%;
 margin-left: auto;
 margin-right: auto;
 }
-
+.darkmode {
+  background-color: black;
+  color: white;
+}
