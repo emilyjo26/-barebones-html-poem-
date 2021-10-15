@@ -1,5 +1,13 @@
 @charset "UTF-8";
-/* CSS Document */
+ .dark-mode {
+  background-color: black;
+  color: white;
+}
+button{
+  width: 50pt;
+  height:20pt;
+  
+}
 @media screen and (min-width: 300px) {
   body {
 		background-color: chocolate;
@@ -31,7 +39,7 @@
 	body {
 		background-color: sandybrown;
 }
-}
+
 
 p{font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 color: white; 
@@ -58,7 +66,5 @@ width: 30%;
 margin-left: auto;
 margin-right: auto;
 }
-.darkmode {
-  background-color: black;
-  color: white;
-}
+
+
